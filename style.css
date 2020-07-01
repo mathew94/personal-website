@@ -68,6 +68,7 @@ section{
 }
 .lt-div{
     width: 100%;
+    text-align: center;
 }
 .client{
     text-decoration: none;
