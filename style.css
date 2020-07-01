@@ -53,6 +53,7 @@ section{
 .biograph{
     background-image: url("images/biography-bg.png");
     background-repeat: no-repeat;
+   
 }
 #lt-work{
     margin-top: 200px;
@@ -60,3 +61,66 @@ section{
     text-decoration: none;
     font-weight: 450;
 }
+.lw-image{
+    float: left;
+    width: 30%;
+    margin-left: 30px;
+}
+.lt-div{
+    width: 100%;
+}
+.client{
+    text-decoration: none;
+    font-weight: 450;
+    text-align: center;
+}
+.email-button{
+    text-decoration: none;
+    color: white;
+    background-color: rgba(255, 20, 145, 0.911);
+    padding: 10px 20px;
+    border-radius: 10px;
+    display: inline-block;
+    
+}
+.container{
+    text-align: center;
+    
+}
+ #eml{
+    display: block;
+ }
+ #msg{
+    font-size: 12px;
+ }
+ .designation{
+     text-align: center;
+ }
+ #des{
+     color: dimgray;
+ }
+ #lorem{
+     color: black;
+     text-align: center;
+ }
+ #foot{
+     text-align: center;
+     font-size: 10px;
+ }
+ .office{
+    border: 2px solid black;
+    border-radius: 30px;
+    margin: 10px;
+    width: 20%;
+    padding: 10px;
+    display:inline-block; 
+ }
+ .off{
+     text-align: center;
+ }
+ .off-text{
+     text-align: justify;
+ }
+ .box{
+     text-align: center;
+ }
