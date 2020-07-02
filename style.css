@@ -70,6 +70,11 @@ section{
     width: 100%;
     text-align: center;
 }
+.latest-work{
+    background-image: url("images/latest-work-bg.png");
+    background-repeat: no-repeat;
+   
+}
 .client{
     text-decoration: none;
     font-weight: 450;
@@ -83,6 +88,11 @@ section{
     border-radius: 10px;
     display: inline-block;
     
+}
+.info{
+    background-image: url("images/footer-bg.png");
+    background-repeat: no-repeat;
+   
 }
 .container{
     text-align: center;
